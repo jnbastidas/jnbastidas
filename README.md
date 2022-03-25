@@ -3,7 +3,7 @@ Hi, It is Jonathan Bolaños, an electronic and telecommunications engineer worki
 - I enjoy working with the java programing language and its different frameworks to implement solutions in enterprise environments.
 - I am currently learning about front-end technologies to work in web applications.
 
-- 📫 How to reach me:
+- 📫 How to reach me:\n
   Linkedin: https://www.linkedin.com/in/jonathan-bolanos/
 
 

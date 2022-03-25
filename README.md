@@ -4,6 +4,7 @@ Hi, It is Jonathan Bolaños, an electronic and telecommunications engineer worki
 - I am currently learning about front-end technologies to work in web applications.
 
 - 📫 How to reach me:
+
   Linkedin: https://www.linkedin.com/in/jonathan-bolanos/
 
 
